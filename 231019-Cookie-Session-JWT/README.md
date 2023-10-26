@@ -2,6 +2,7 @@
 - 23년 10월 19일 쿠키, 세션 및 JWT 발표자료입니다.
 
 # 발표 영상
+- https://youtu.be/KWZdTc9m0q0?si=6YQpuXbqsiBtD3P6
 
 # 발표자료
 ![Alt text](<쿠키, 세션, JWT.001.jpeg>)
